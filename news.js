@@ -69,7 +69,7 @@ class Mynews extends HTMLElement{
                     <div>
                         <hr>         
                         <h1>Release:</h1>
-                        <h5>I Am Affirmations will soon come out.</h5>
+                        <h5>We are happy to announce that this site "I Am Affirmations" is getting indexed! :)</h5>
                         <hr>
                     </div>
                 </div>

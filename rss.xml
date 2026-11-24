@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>I am Affirmations</title>
+        <link>https://minidavid.github.io/i-am-affirmations</link>
+        <description>This is a children's ook site.</description>
+        <language>en-uk</language>
+
+        <item>
+            <title>news</title>
+            <link>https://minidavid.github.io/i-am-affirmations/news.html</link>
+            <description>Fully indexed the site!</description>
+            <puDate>Tuesday 24/11/2026</puDate>
+            <guid isPermalink="false">https://minidavid.github.io/i-am-affirmations/news.html</guid>
+        </item>
+    </channel>
+</rss>
