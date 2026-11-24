@@ -3,6 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="
+    default-src 'self';
+    script-src 'self' 'unsafe-inline' https://eocampaign1.com https://*.eocampaign1.com https://google.com https://gstatic.com;
+    style-src 'self' 'unsafe-inline' https://eocampaign1.com https://*.eocampaign1.com;
+    img-src 'self' data: https://eocampaign1.com https://*.eocampaign1.com https://*.emailoctopus.com;
+    connect-src 'self' https://emailoctopus.com https://*.emailoctopus.com https://eocampaign1.com https://*.eocampaign1.com https://formsubmit.co;
+    form-action 'self' https://emailoctopus.com https://*.emailoctopus.com https://formsubmit.co;
+    frame-src 'self' https://google.com https://recaptcha.google.com/;
+    ">
+
     <title>wishlist</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="my_header.css">
